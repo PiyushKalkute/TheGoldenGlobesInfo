@@ -1,0 +1,9 @@
+jsonschema==3.2.0
+pandas==0.25.3
+google_images_download
+zipp==1.0.0
+nltk
+spacy
+pickleshare==0.7.5
+requests==2.22.0
+unidecode
